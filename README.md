@@ -1,6 +1,6 @@
 # D20Roll
-> This is an Android project
-An app I made to learn some basic Android programming. This project is very simple, made 
+> This is an Android project. 
+An app I made to learn some basic Android programming. The project is very simple and basic, made 
 for learning purposes using the official documentation, that's why you very likely won't find 
 best-practises or bleeding-edge code with the latest Android features.
 ## Build with
